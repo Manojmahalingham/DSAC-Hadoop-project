@@ -4,11 +4,6 @@ I have an created mapreduce project in Hadoop
 
 ## Matrix-Matrix Multiplication
 
-#### Problem
-Calculate the product of two matrixs *M1* and *M2* (both assumed sparse)
-
-Here we demonstrate using a toy example  
-![toy_example](./toy_example.png)
 
 
 #### Workflow - 2 MapReduce jobs
